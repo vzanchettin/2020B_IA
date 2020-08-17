@@ -1,3 +1,4 @@
+# https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
 import numpy as np, random, operator, pandas as pd, matplotlib.pyplot as plt
 
 class City:
